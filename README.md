@@ -1,7 +1,8 @@
 # 📝 Expo Navigation Example 
 ## 💡 TL;DR - tabs and modals navigation nested within stacks navigation using expo all around. 
 
-This repository contains an example of using Expo Router to set up a navigation system for an app with separate external and internal page stacks. It demonstrates how to implement tab navigation inside the internal stack while keeping the external stack (e.g., authentication pages) separate. 
+This repository contains an example of using Expo Router to set up a navigation system for an app with separate external and internal page stacks. It demonstrates how to implement tab navigation inside the internal stack while keeping the external stack (e.g., authentication pages) separate. Please take a look at my Medium blog post for more details @ https://medium.com/@coby09/building-seamless-navigation-in-expo-router-tabs-modals-and-stacks-2df1a5522321
+This was also featured on ThisWeekInReact's newsletter edition 214, and in InfiniteRed's RN newsletter. 
 
 ## ⚠️ Problem
 
